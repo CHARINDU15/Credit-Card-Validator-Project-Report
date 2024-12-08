@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "Hash": "8aoB7S6Y9pthSBq4Sj522FqAbdXZDfe/DXrVjEIIBG4=",
+  "Source": "CreditCardValidator",
+  "BasePath": "_content/CreditCardValidator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CreditCardValidator\\wwwroot",
+      "Source": "CreditCardValidator",
+      "ContentRoot": "C:\\Users\\USER\\Downloads\\credit-card-validator\\Backend\\wwwroot\\",
+      "BasePath": "_content/CreditCardValidator",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\USER\\Downloads\\credit-card-validator\\Backend\\obj\\Debug\\net9.0\\compressed\\p3k8n8jaff-z2m817h6o1.gz",
+      "SourceId": "CreditCardValidator",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Downloads\\credit-card-validator\\Backend\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CreditCardValidator",
+      "RelativePath": "welcome#[.{fingerprint=z2m817h6o1}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\USER\\Downloads\\credit-card-validator\\Backend\\wwwroot\\welcome.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "54pckkgibr",
+      "Integrity": "2xH5iwK6bXCvj6RanSPccmVEQt1v3I4Q2QKq9BcZyiA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\USER\\Downloads\\credit-card-validator\\Backend\\wwwroot\\welcome.html"
+    },
+    {
+      "Identity": "C:\\Users\\USER\\Downloads\\credit-card-validator\\Backend\\wwwroot\\welcome.html",
+      "SourceId": "CreditCardValidator",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Downloads\\credit-card-validator\\Backend\\wwwroot\\",
+      "BasePath": "_content/CreditCardValidator",
+      "RelativePath": "welcome#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z2m817h6o1",
+      "Integrity": "y85b8UuBULcV06mhOQtJxpOdFG+1lBqwQj3v8Ki4p+M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\welcome.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "welcome.html",
+      "AssetFile": "C:\\Users\\USER\\Downloads\\credit-card-validator\\Backend\\obj\\Debug\\net9.0\\compressed\\p3k8n8jaff-z2m817h6o1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003115264798"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "320"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2xH5iwK6bXCvj6RanSPccmVEQt1v3I4Q2QKq9BcZyiA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 14:42:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"y85b8UuBULcV06mhOQtJxpOdFG+1lBqwQj3v8Ki4p+M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y85b8UuBULcV06mhOQtJxpOdFG+1lBqwQj3v8Ki4p+M="
+        }
+      ]
+    },
+    {
+      "Route": "welcome.html",
+      "AssetFile": "C:\\Users\\USER\\Downloads\\credit-card-validator\\Backend\\wwwroot\\welcome.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "583"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y85b8UuBULcV06mhOQtJxpOdFG+1lBqwQj3v8Ki4p+M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 14:42:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y85b8UuBULcV06mhOQtJxpOdFG+1lBqwQj3v8Ki4p+M="
+        }
+      ]
+    },
+    {
+      "Route": "welcome.html.gz",
+      "AssetFile": "C:\\Users\\USER\\Downloads\\credit-card-validator\\Backend\\obj\\Debug\\net9.0\\compressed\\p3k8n8jaff-z2m817h6o1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "320"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2xH5iwK6bXCvj6RanSPccmVEQt1v3I4Q2QKq9BcZyiA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 14:42:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2xH5iwK6bXCvj6RanSPccmVEQt1v3I4Q2QKq9BcZyiA="
+        }
+      ]
+    },
+    {
+      "Route": "welcome.z2m817h6o1.html",
+      "AssetFile": "C:\\Users\\USER\\Downloads\\credit-card-validator\\Backend\\obj\\Debug\\net9.0\\compressed\\p3k8n8jaff-z2m817h6o1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003115264798"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "320"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2xH5iwK6bXCvj6RanSPccmVEQt1v3I4Q2QKq9BcZyiA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 14:42:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"y85b8UuBULcV06mhOQtJxpOdFG+1lBqwQj3v8Ki4p+M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z2m817h6o1"
+        },
+        {
+          "Name": "label",
+          "Value": "welcome.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y85b8UuBULcV06mhOQtJxpOdFG+1lBqwQj3v8Ki4p+M="
+        }
+      ]
+    },
+    {
+      "Route": "welcome.z2m817h6o1.html",
+      "AssetFile": "C:\\Users\\USER\\Downloads\\credit-card-validator\\Backend\\wwwroot\\welcome.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "583"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y85b8UuBULcV06mhOQtJxpOdFG+1lBqwQj3v8Ki4p+M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 14:42:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z2m817h6o1"
+        },
+        {
+          "Name": "label",
+          "Value": "welcome.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y85b8UuBULcV06mhOQtJxpOdFG+1lBqwQj3v8Ki4p+M="
+        }
+      ]
+    },
+    {
+      "Route": "welcome.z2m817h6o1.html.gz",
+      "AssetFile": "C:\\Users\\USER\\Downloads\\credit-card-validator\\Backend\\obj\\Debug\\net9.0\\compressed\\p3k8n8jaff-z2m817h6o1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "320"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2xH5iwK6bXCvj6RanSPccmVEQt1v3I4Q2QKq9BcZyiA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 14:42:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z2m817h6o1"
+        },
+        {
+          "Name": "label",
+          "Value": "welcome.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2xH5iwK6bXCvj6RanSPccmVEQt1v3I4Q2QKq9BcZyiA="
+        }
+      ]
+    }
+  ]
+}

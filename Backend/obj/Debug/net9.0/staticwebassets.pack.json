@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\USER\\Downloads\\credit-card-validator\\Backend\\wwwroot\\welcome.html",
+      "PackagePath": "staticwebassets\\welcome.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.CreditCardValidator.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.CreditCardValidator.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.CreditCardValidator.props",
+      "PackagePath": "build\\CreditCardValidator.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.CreditCardValidator.props",
+      "PackagePath": "buildMultiTargeting\\CreditCardValidator.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.CreditCardValidator.props",
+      "PackagePath": "buildTransitive\\CreditCardValidator.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/CreditCardValidator/welcome.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\welcome.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-y85b8UuBULcV06mhOQtJxpOdFG\u002B1lBqwQj3v8Ki4p\u002BM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"583"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022y85b8UuBULcV06mhOQtJxpOdFG\u002B1lBqwQj3v8Ki4p\u002BM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 08 Dec 2024 14:42:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CreditCardValidator/welcome.z2m817h6o1.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\welcome.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"z2m817h6o1"},{"Name":"integrity","Value":"sha256-y85b8UuBULcV06mhOQtJxpOdFG\u002B1lBqwQj3v8Ki4p\u002BM="},{"Name":"label","Value":"_content/CreditCardValidator/welcome.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"583"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022y85b8UuBULcV06mhOQtJxpOdFG\u002B1lBqwQj3v8Ki4p\u002BM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 08 Dec 2024 14:42:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
